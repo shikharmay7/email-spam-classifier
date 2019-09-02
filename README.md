@@ -1,13 +1,13 @@
 # email-spam-classifier
 USING SUPPORT VECTOR MACHINES TO BUILD EMAIL SPAM CLASSIFIER.
 
-
 This assignment is a part of Machine Learning course by Prof. Andrew Ng on Coursera
 
 Programming Exercise 6: Support Vector Machines.
 
 (machine-learning-ex6 week 7)
 
+Description of the contents of the repo:
 
 ex6.m - Octave/MATLAB script for the ﬁrst half of the exercise 
 ex6data1.mat - Example Dataset 1 
